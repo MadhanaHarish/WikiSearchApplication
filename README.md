@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your WikiSearchApplication GitHub repository. Feel free to customize it further based on your project details and preferences:
-
----
 
 # WikiSearchApplication
 
